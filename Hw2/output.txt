@@ -1,0 +1,27 @@
+Private employment average per month (thousands)
+Republican            99771
+Democrat             100670
+
+Government employment average per month (thousands)
+Republican            19571
+Democrat              19922
+
+Private employment average by president (thousands)
+President               First Month          Last Month          Difference  Percentage
+Carter                        65634               74570                8936       13.61%
+Reagan                        74673               89162               14489       19.40%
+Bush                          89387               90617                1230        1.38%
+Clinton                       90893              111905               21012       23.12%
+Bush                         111863              112283                 420        0.38%
+Obama                        111476              123111               11635       10.44%
+Trump                        123304              121117               -2187       -1.77%
+
+Government employment average by president (thousands)
+President               First Month          Last Month          Difference  Percentage
+Carter                        15056               16373                1317        8.75%
+Reagan                        16360               17736                1376        8.41%
+Bush                          17774               18878                1104        6.21%
+Clinton                       18901               20804                1903       10.07%
+Bush                          20835               22556                1721        8.26%
+Obama                         22579               22304                -275       -1.22%
+Trump                         22308               21465                -843       -3.78%
