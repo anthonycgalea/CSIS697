@@ -10,13 +10,14 @@ class myFraction():
             self.num=int(splt[1])
             self.denom=10**len(splt[1])
             self.num+=coeff*self.denom
+        self.reduceFrac()
             
     def __str__(self):
         return str(self.num) + "/" + str(self.denom)
     
     def gcd(self):
         gcd=1
-        for k in range(1, min([self.num, self.denom])+1):
+        for k in range(1, min([abs(self.num), abs(self.denom)])+1):
             if self.num%k==0 and self.denom%k==0:
                 gcd=k
         return gcd
