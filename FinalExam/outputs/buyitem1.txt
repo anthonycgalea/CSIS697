@@ -1,0 +1,3 @@
+{
+    "message": "Thanks antpaul for buying Vibranium Shield. (Lightly used.)."
+}

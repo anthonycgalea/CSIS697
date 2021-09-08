@@ -1,0 +1,3 @@
+{
+    "message": "Thanks steve123 for buying Mindstone - The rarest stone on earth."
+}

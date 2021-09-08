@@ -1,0 +1,3 @@
+{
+    "message": "Thanks thevision for buying Jarvis - A sophisticated AI."
+}

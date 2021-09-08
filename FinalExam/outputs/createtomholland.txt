@@ -1,0 +1,6 @@
+{
+    "balance": 0,
+    "items": "spidey616 does not have any items for sale at the moment. Check back later.",
+    "name": "Tom Holland",
+    "user_name": "spidey616"
+}

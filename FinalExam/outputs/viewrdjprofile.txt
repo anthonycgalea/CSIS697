@@ -1,0 +1,19 @@
+{
+    "balance": 100,
+    "items": [
+        {
+            "id": 3,
+            "name": "Jarvis - A sophisticated AI",
+            "owner": 4,
+            "price": 120
+        },
+        {
+            "id": 4,
+            "name": "Mark XLIV - Hulkbuster",
+            "owner": 4,
+            "price": 80
+        }
+    ],
+    "name": "Robert Downey Jr.",
+    "user_name": "iamironman"
+}

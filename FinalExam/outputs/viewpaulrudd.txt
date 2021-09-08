@@ -1,0 +1,13 @@
+{
+    "balance": 45,
+    "items": [
+        {
+            "id": 1,
+            "name": "Vibranium Shield. (Lightly used.)",
+            "owner": 3,
+            "price": 55
+        }
+    ],
+    "name": "Paul Rudd",
+    "user_name": "antpaul"
+}

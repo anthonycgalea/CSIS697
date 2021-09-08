@@ -1,0 +1,6 @@
+{
+    "id": 6,
+    "name": "Iron Spider Suit",
+    "owner": 6,
+    "price": 50
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Vibranium Shield. (Lightly used.)",
+        "owner": 1,
+        "price": 55
+    },
+    {
+        "id": 2,
+        "name": "Mjolnir - The Hammer of the Gods",
+        "owner": 5,
+        "price": 95
+    },
+    {
+        "id": 3,
+        "name": "Jarvis - A sophisticated AI",
+        "owner": 4,
+        "price": 120
+    },
+    {
+        "id": 4,
+        "name": "Mark XLIV - Hulkbuster",
+        "owner": 4,
+        "price": 80
+    },
+    {
+        "id": 5,
+        "name": "Mindstone - The rarest stone on earth",
+        "owner": 2,
+        "price": 90
+    }
+]

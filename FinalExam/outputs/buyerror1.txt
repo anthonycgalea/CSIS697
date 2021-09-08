@@ -1,0 +1,3 @@
+{
+    "message": "You cannot buy your own items."
+}

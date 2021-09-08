@@ -1,0 +1,6 @@
+{
+    "balance": 155,
+    "items": "steve123 does not have any items for sale at the moment. Check back later.",
+    "name": "Chris Evans",
+    "user_name": "steve123"
+}
